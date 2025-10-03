@@ -195,7 +195,7 @@ jupyter notebook analysis.ipynb
 
 ## Research Team
 
-**Lead Researcher**: Guillaume Bolivard  
+**Graduate Researcher**: Guillaume Bolivard  
 **Faculty Advisor**: Dr. Abol Jalilvand  
 **Institution**: Loyola University Chicago
 
